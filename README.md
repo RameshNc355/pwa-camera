@@ -1,1 +1,1 @@
-# pwa-camera
+# my-camera
